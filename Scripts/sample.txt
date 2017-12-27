@@ -1,0 +1,39 @@
+
+
+
+#!/bin/bash
+#!/bin/bash
+# code to Handle if No Files are Available 
+do 
+done
+			echo "${file} Available in the Current path "
+				echo "File Not available"
+		echo " No Files with \"${extension}\" Extension are Available in the Path "
+		echo "Perso name is sufficient.."	
+		echo "please enter a name greater than 4 chars"
+echo " Please Enter the extension Do u Wish to Search For :---"
+echo "The Person name is ${name} and it has ${#name} characters"
+echo "welcome to Scripting World"
+	else
+		else
+fi
+fi
+	fi
+for file in $path
+# getting the Extension File Name from the Current Path 
+	if [[ -e $file ]]
+if [ $personChar -lt 3 ]
+if [[ -z ${path} ]]
+# Looping the Files 
+name=e
+path=$( ls | grep .${extension})
+personChar="${#name}"
+read extension
+	then
+	then
+		then
+##this is our First Program
+	###  This Script is used to Find all the Extension File From the Folder 
+##usage of Symbols $ and # 
+### We are Going to Check  whether name has more than 4 chars or Not
+###we have to use the  Double quotes to Solve the Issue

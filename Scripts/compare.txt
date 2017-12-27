@@ -1,0 +1,1 @@
+cmp: EOF on /home/esak/Scripting/Unix/First.sh
